@@ -84,7 +84,7 @@ namespace Treasure
                         }
                         else if (role.Equals("2"))
                         {
-                            Response.Write("<script language=javascript>alert('It\'s a restricted area for users');</script>");
+                            Response.Write("<script language=javascript>alert('Its a restricted area for users');</script>");
                         }
                         else
                         {
