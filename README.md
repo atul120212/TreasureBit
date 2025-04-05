@@ -67,9 +67,6 @@
    - Set `home.aspx` as the start page.
    - Run the project using IIS Express or your local server.
 
-## 📸 Screenshots
-
-_Screenshots coming soon_
 
 ## 🧩 Future Enhancements
 
