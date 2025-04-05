@@ -80,10 +80,5 @@
 
 Pull requests are welcome! Feel free to open issues and suggest features or bug fixes.
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 Made with ❤️ by [Atul](https://github.com/atul120212)
